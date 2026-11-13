@@ -8,7 +8,9 @@ O site https://www.saucedemo.com, uma loja de demonstração feita para treinar 
 
 **Dentro:** entrada na conta, lista de produtos (ordenar), carrinho, finalização da compra e saída da conta.
 
-**Fora:** testes de segurança, de desempenho e de automação. Aqui é só teste manual funcional.
+**Fora:** testes de segurança, de desempenho e de automação de telas. No site é só teste manual funcional.
+
+**Testes de API:** separados na pasta `testes-de-api/`, feitos no Postman com a API pública JSONPlaceholder.
 
 ## 3. Como eu vou testar
 
@@ -19,9 +21,9 @@ O site https://www.saucedemo.com, uma loja de demonstração feita para treinar 
 ## 4. Ambiente
 
 - Site: https://www.saucedemo.com
-- Navegador: Microsoft Edge
+- Navegadores: Microsoft Edge (outubro) e Google Chrome (novembro)
 - Sistema: Windows
-- Data dos testes: 14 e 16/10/2026
+- Datas dos testes: 14 e 16/10/2026 e 13/11/2026
 
 ## 5. Usuários de teste
 
@@ -30,7 +32,7 @@ Os usuários de teste aparecem na própria tela de entrada do site (é um site d
 - `standard_user` (usuário normal)
 - `locked_out_user` (usuário bloqueado)
 - `problem_user` (usuário com problemas conhecidos)
-- `performance_glitch_user` (usuário com lentidão)
+- `performance_glitch_user` (usuário com lentidão, fica para uma próxima rodada)
 
 ## 6. Quando eu considero que terminei
 
