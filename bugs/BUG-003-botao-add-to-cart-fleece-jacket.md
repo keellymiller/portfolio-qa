@@ -21,7 +21,7 @@ O botão vira "Remover" (Remove) e o carrinho aumenta em 1 item.
 Nada acontece. O botão continua "Adicionar ao carrinho" e o carrinho não muda. Clicando mais de uma vez, o resultado é o mesmo.
 
 ## Evidências
-(anexar a captura de tela do botão da jaqueta depois do clique)
+![Botão da jaqueta continua "Add to cart" e o carrinho vazio depois do clique](evidencias/bug-003-jaqueta-nao-adiciona.jpg)
 
 ## Observações
-Com o mesmo usuário, o botão da mochila (Sauce Labs Backpack) funciona normal (vira "Remover" e o carrinho sobe para 1). Ainda não testei os outros produtos com o problem_user.
+Com o mesmo usuário, o botão da mochila (Sauce Labs Backpack) funciona normal (vira "Remover" e o carrinho sobe para 1). Em 13/11/2026 testei os outros produtos com o problem_user: a camiseta Bolt (Sauce Labs Bolt T-Shirt) e a camiseta vermelha (Test.allTheThings() T-Shirt (Red)) têm o mesmo defeito. A lanterna (Bike Light) e o body (Onesie) funcionam normal. Ou seja, 3 dos 6 produtos não podem ser comprados com esse usuário.
