@@ -18,7 +18,7 @@ Cada produto mostra a sua própria foto (a mochila mostra uma mochila, a camiset
 Todos os produtos mostram a mesma foto: um cachorro com uma bolinha de tênis na boca.
 
 ## Evidências
-(anexar o print da lista de produtos)
+![Todos os produtos com a mesma foto de um cachorro](evidencias/bug-002-imagens-iguais.jpg)
 
 ## Observações
 Com o usuário standard_user as fotos aparecem certas. O problema só acontece com o problem_user.
