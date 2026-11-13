@@ -10,6 +10,8 @@ Ainda não tive um emprego fixo como QA, então este repositório é onde eu mos
 - Escrever plano de testes e casos de teste
 - Encontrar defeitos (também chamados de bugs) e escrever relatórios claros (passos, resultado esperado e resultado obtido)
 - Anexar evidências (capturas de tela e vídeos)
+- Testar APIs no Postman (GET, POST, PUT, PATCH e DELETE) e conferir os códigos de status
+- Usar Jira, Git e GitHub e trabalhar com Scrum e Kanban
 
 ## O que tem aqui
 
@@ -17,13 +19,21 @@ Ainda não tive um emprego fixo como QA, então este repositório é onde eu mos
 |---|---|
 | `01-plano-de-testes.md` | Como eu planejei os testes do site de prática |
 | `02-casos-de-teste.md` | Os casos de teste que eu executei e o resultado de cada um |
-| `bugs/` | Relatórios dos defeitos que eu encontrei |
+| `bugs/` | Relatórios dos defeitos que eu encontrei, com capturas de tela na pasta `bugs/evidencias/` |
+| `testes-de-api/` | Coleção do Postman com testes de API e o resultado de cada um |
 
-## Projeto de prática
+## Projetos de prática
 
-Site testado: https://www.saucedemo.com (site de demonstração feito para treinar testes, todo em inglês).
+- Site testado: https://www.saucedemo.com (site de demonstração feito para treinar testes, todo em inglês)
+- API testada: https://jsonplaceholder.typicode.com (API pública feita para treinar testes)
+
+## Resultados
+
+| Casos de teste no site | Passou | Falhou | Defeitos encontrados | Testes de API |
+|---|---|---|---|---|
+| 17 | 11 | 6 | 5 | 7 (todos passaram) |
 
 ## Contato
 
 - E-mail: kelmporto@gmail.com
-- LinkedIn: (colocar o link do seu perfil)
+- LinkedIn: https://www.linkedin.com/in/keellymp
