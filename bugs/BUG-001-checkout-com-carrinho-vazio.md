@@ -30,7 +30,11 @@ O site deixa seguir por todas as etapas. A tela de resumo mostra **Total dos ite
 
 ## Evidências
 
-(arraste aqui a captura de tela do resumo do pedido com Total dos itens $0 e a captura da tela de pedido concluído)
+Resumo do pedido com o carrinho vazio, mostrando "Total: $0.00" e o botão Finalizar (Finish) liberado:
+
+![Resumo do pedido com total $0.00](evidencias/bug-001-carrinho-vazio-total-zero.jpg)
+
+Ao clicar em Finalizar, aparece "Obrigado pelo seu pedido!" (Thank you for your order!).
 
 ## Observações
 
