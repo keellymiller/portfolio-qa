@@ -35,5 +35,4 @@ Ainda não tive um emprego fixo como QA, então este repositório é onde eu mos
 
 ## Contato
 
-- E-mail: kelmporto@gmail.com
 - LinkedIn: https://www.linkedin.com/in/keellymp
